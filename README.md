@@ -46,7 +46,7 @@ My findings include the following notable patterns:
 3. Removed all but 33 consistent ZIP codes from data.
 4. Remove demographic columns (`ChildRaceAsian,` `ChildDisability,` `ChildRaceAmIndAlaNat`) containing > 80% of imputed data.
 
-## Exploratory Hypotheses
+## Exploratory Trends
 
 As demographics overlap (multiple demographic labels can apply to the same child), I strictly use the age demographics (`ChildInfantToddler`, `ChildAgePrek`, `ChildAgeSchAge`) when calculating averages.
 
