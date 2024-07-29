@@ -56,17 +56,17 @@ As demographics overlap (multiple demographic labels can apply to the same child
 
 ### Negative Trend in Consumer Price Index-Adjusted Income
 
-![trend](images/income.png)  
+![trend](images/avgincome.png)  
 
 From January 2021 to March 2024, the average income in the Austin area of families receiving CCDF has increased from 2315.18 to 2663.58 (15.05%)
 
-![trend](images/cpi.png) 
+![trend](images/avgcpi.png) 
 
 However, when considering the consumer price index, we see that the purchasing power of families has decreased from 2780.67 to 2679.29 (-3.65%) when considering the June 2024 CPI. 
 
 ### Increase in Average Count of Homeless Individuals 
 
-![trend](images/homeless.png)
+![trend](images/avghomeless.png)
 
 The average number of homeless individuals in families has increased from 2021 to 2024. In January 2021, there was an average of 2.94 homeless individuals, and by March 2024 this number increased to 5.35 (81.96%).
 
