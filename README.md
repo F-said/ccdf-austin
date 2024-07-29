@@ -2,7 +2,7 @@
 
 Child care is a critical factor in the multi-pronged implementation of poverty reduction within the United States (https://www.povertycenter.columbia.edu/child-care-and-paid-family-leave).
 
-To understand the child-care needs of the Greater Austin area, I performed an exploratory analysis through publically available demographic data of children receiving Child Care and Development Fund (CCDF) assistance. 
+To understand the child-care needs in the context of workforce development of the Greater Austin area, I performed an exploratory analysis through publically available demographic data of children receiving Child Care and Development Fund (CCDF) assistance. 
 
 My findings include the following notable patterns:
 
