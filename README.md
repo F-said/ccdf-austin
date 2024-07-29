@@ -6,7 +6,11 @@ To understand the child-care needs in the context of workforce development of th
 
 My findings include the following notable patterns:
 
-* Overall, the number of children receiving CCDF assistance is **trending upwards** from Q1 2021 to Q1 2024.  
+* The CPI-adjusted average monthly income of families across ZIP Codes receiving CCDF has moderately decreased from Q1 2021 to Q1 2024.
+
+* The number of homeless individuals in families receiving CCDF has increased from Q1 2021 to Q1 2024. 
+
+* The number of children receiving CCDF assistance is **trending upwards** from Q1 2021 to Q1 2024.  
   * The demographics experiencing the most significant increases (across ethnicity, gender, and age) are `ChildEthnicityHispLatino`, `ChildFemale`, and `ChildAgeSchAge`.
 
 * However, a notable decrease occurred from Q3 2023 to Q1 2024.  
@@ -48,9 +52,25 @@ My findings include the following notable patterns:
 
 ## Exploratory Trends
 
-As demographics overlap (multiple demographic labels can apply to the same child), I strictly use the age demographics (`ChildInfantToddler`, `ChildAgePrek`, `ChildAgeSchAge`) when calculating averages.
+As demographics overlap (multiple demographic labels can apply to the same child), I strictly use the age demographics (`ChildInfantToddler`, `ChildAgePrek`, `ChildAgeSchAge`) when calculating the average count of children.
 
-### Positive Overall Trend 
+### Negative Trend in Consumer Price Index-Adjusted Income
+
+![trend](images/income.png)  
+
+From January 2021 to March 2024, the average income in the Austin area of families receiving CCDF has increased from 2315.18 to 2663.58 (15.05%)
+
+![trend](images/cpi.png) 
+
+However, when considering the consumer price index, we see that the purchasing power of families has decreased from 2780.67 to 2679.29 (-3.65%) when considering the June 2024 CPI. 
+
+### Increase in Average Count of Homeless Individuals 
+
+![trend](images/homeless.png)
+
+The average number of homeless individuals in families has increased from 2021 to 2024. In January 2021, there was an average of 2.94 homeless individuals, and by March 2024 this number increased to 5.35 (81.96%).
+
+### Positive Overall Trend in Average Count of Children
 
 ![trend](images/trend.png)  
 
@@ -58,7 +78,7 @@ The number of children receiving CCDF assistance is trending upwards, with the b
 
 All demographics experienced an increase in average quantity from January 2021 to March 2024, with children in the `ChildEthnicityHispanicLatino` demographic experiencing the **largest** rise between January 2021 and March 2024. In January 2021, there were an average of 28.80 children across all ZIP codes in the `ChildEthnicityHispanicLatino` demographic. By March 2024, this amount had increased to 38.20 (32.61%). 
 
-### Apparent Decrease from Q3 2023 to Q1 2024
+### Negative Overall Trend from Q3 2023 to Q1 2024
 
 ![trend](images/childtrend.png)  
 
